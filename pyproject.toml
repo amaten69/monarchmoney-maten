@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "monarchmoney-enhanced"
+name = "monarchmoney-maten"
 version = "0.9.7"
 description = "Enhanced Monarch Money API with bulk transaction operations, GraphQL optimizations, intelligent caching, query variants, and service-oriented architecture"
 readme = "README.md"
@@ -27,8 +27,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/keithah/monarchmoney-enhanced"
-Repository = "https://github.com/keithah/monarchmoney-enhanced"
+Homepage = "https://github.com/keithah/monarchmoney-maten"
+Repository = "https://github.com/keithah/monarchmoney-maten"
 
 [tool.setuptools.packages.find]
 where = ["."]

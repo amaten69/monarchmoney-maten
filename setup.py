@@ -14,12 +14,12 @@ except FileNotFoundError:
     ]
 
 setup(
-    name="monarchmoney-enhanced",
+    name="monarchmoney-maten",
     version="0.10.1",
     description="Enhanced Monarch Money API with bulk transaction operations, service-oriented architecture, performance optimizations, and advanced error recovery",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/keithah/monarchmoney-enhanced",
+    url="https://github.com/keithah/monarchmoney-maten",
     author="keithah",
     author_email="keithah@users.noreply.github.com",
     license="MIT",
